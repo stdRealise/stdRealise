@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Skills
 - C / C++ / C# / Python / Java
+- Unity
 - Blender / Компас / 3D printing
 
 
