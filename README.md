@@ -1,8 +1,9 @@
 ## Hi there 👋
 ### Skills
 - C / C++ / C# / Python / Java
+- ML / CV
 - PostgreSQL
-- Unity
+- Unity / Godot
 - Blender / Компас / 3D printing
 
 
